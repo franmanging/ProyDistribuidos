@@ -1,9 +1,9 @@
 # ProyDistribuidos
 
-Integrantes:
+## Integrantes:
 
-Francesca Mang Ging,
+* Francesca Mang Ging,
 
-Alex Ubilla,
+* Alex Ubilla,
 
-Darío Carpio
+* Darío Carpio
